@@ -5,7 +5,7 @@ KOR
 - Short Term
 - Medium Term
 - Long Term
-- 
+
 ENG
 Should include immediate to short term and ling term solution and MUST answer what should be done to prevent the incident from occurring even again If the incident happens again, then how can the incident be recovered within 10 miniutes. Are there other places in the system that are at risk to same issue? Or are there other systems to same issue? If yes how we remove that risk? Add a Short-Term Poka-Yoke item to create an automatic alerts for detecting similar incidents
 
